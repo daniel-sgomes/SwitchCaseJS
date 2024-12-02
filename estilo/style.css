@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+
+#cor {
+    padding: 30px;
+    font-size: 16px;
+
+}
+
+button {
+    padding: 30px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+#btn-1 {
+    background-color: deepskyblue;
+}
+
+#btn-2 {
+    background-color: chartreuse;
+}
